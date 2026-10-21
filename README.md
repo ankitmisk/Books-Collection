@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Books-Collection
 This repository contains a collection of books I have downloaded related to **Mathematics**, **Artificial Intelligence (AI) &amp; Machine Learning (ML)**, and **Algorithms**. Some of these books I have read, while others are on my reading list.
 
@@ -10,3 +11,6 @@ This repository contains a collection of books I have downloaded related to **Ma
 
 ## 🔥 How to Use  
 If you're looking for book recommendations in these domains, feel free to check out this list! I also welcome any suggestions on must-read books.  
+=======
+# Books-Collection
+>>>>>>> f279ba3296af97eb366cce1c1896ab988e6304fa
